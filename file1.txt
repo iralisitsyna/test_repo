@@ -1,3 +1,2 @@
-First string
-
+New line
 Second string
