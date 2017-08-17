@@ -1,8 +1,0 @@
-New line
-<<<<<<< HEAD
-=======
-
->>>>>>> new_branch1
-Second string
-
-
